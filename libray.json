@@ -1,0 +1,26 @@
+{
+    "name": "lcdwiki_gui",
+    "keywords": "lcdwiki, gui",
+    "description": "lcdwiki graphics core library, this is the 'core' class that all our other graphics libraries derive from.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/featherfly/LCDWIKI_gui.git"
+    },
+    "authors":
+    [
+      {
+        "name": "lcdwiki",
+        "maintainer": true
+      },
+      {
+        "name": "yufei",
+        "email": "featherfly@foxmail.com"
+      }
+    ],
+    "dependencies": [
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
